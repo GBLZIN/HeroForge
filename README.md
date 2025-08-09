@@ -3,11 +3,11 @@ Esse é um jogo simples de RPG interativo feito em Kotlin usando Jetpack Compose
 Criei ele para treinar o que venho aprendendo em desenvolvimento Android e pra mostrar um projeto prático no meu portfólio.
 
 - [Tecnologias](#tecnologias-utilizadas)
-- [Por que Jetpack Compose](#Por-que-Jetpack-Compose?)
-- [Como funciona](#como-o-jogo-funciona?)
-- [Tomadas de Decisão](#tomadas-de-decisão)
-- [Observações](#Observações)
-- [Créditos](#Créditos)
+- [Por que Jetpack Compose](#por-que-jetpack-compose)
+- [Como funciona](#como-o-jogo-funciona)
+- [Tomadas de Decisão](#tomadas-de-decisao)
+- [Observações](#observacoes)
+- [Créditos](#creditos)
 
 ## Tecnologias utilizadas
 - [Kotlin](https://kotlinlang.org/) — A melhor linguagem de todas.
