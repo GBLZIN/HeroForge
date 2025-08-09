@@ -17,7 +17,7 @@ Criei ele para treinar o que venho aprendendo em desenvolvimento Android e pra m
 
 ## Por que Jetpack Compose?
 Decidi usar Jetpack Compose porque já vinha estudando a ferramenta e queria colocar em prática num projeto "real".
-Senti que ele facilita bastante na hora de criar a interface, sem precisar lidar com aquele XML chato (sim, tenho pavor e ódio de XML).
+Senti que ele facilita bastante na hora de criar a interface, sem precisar lidar com aquele XML chato (sim, tenho pavor e ódio de XML).  
 Quis fazer algo simples e direto, que fosse fácil de entender e que oferecesse uma experiência visual agradável e fluida para quem usar o app (vulgo somente eu).
 
 ## Como o jogo funciona?
