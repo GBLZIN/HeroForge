@@ -5,9 +5,9 @@ Criei ele para treinar o que venho aprendendo em desenvolvimento Android e pra m
 - [Tecnologias](#tecnologias-utilizadas)
 - [Por que Jetpack Compose](#por-que-jetpack-compose)
 - [Como funciona](#como-o-jogo-funciona)
-- [Tomadas de Decisão](#tomadas-de-decisao)
-- [Observações](#observacoes)
-- [Créditos](#creditos)
+- [Tomadas de Decisão](#tomadas-de-decisão)
+- [Observações](#observações)
+- [Créditos](#créditos)
 
 ## Tecnologias utilizadas
 - [Kotlin](https://kotlinlang.org/) — A melhor linguagem de todas.
