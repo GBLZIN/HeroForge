@@ -6,8 +6,8 @@ Criei ele para treinar o que venho aprendendo em desenvolvimento Android e pra m
 - [Por que Jetpack Compose](#por-que-jetpack-compose)
 - [Como funciona](#como-o-jogo-funciona)
 - [Tomadas de Decisão](#tomadas-de-decisão)
-- [Observações](#observações)
 - [Demonstração](#demonstração)
+- [Observações](#observações)
 - [Créditos](#créditos)
 
 ## Tecnologias utilizadas
@@ -43,7 +43,7 @@ Não quis complicar demais, então deixei tudo básico, só com ViewModel e UI c
 Como o foco era a lógica da história e UI, deixei os capítulos e escolhas “fixos” no código mesmo, sem banco ou network.
 
 ## Demonstração
-Abaixo irei disponibilizar um GIF mostrando como o jogo tá funcionando até o momento atual:  
+Abaixo irei disponibilizar um GIF mostrando como o jogo está funcionando no momento atual:  
 
 ![studio64_KkTdPz7Pdx](https://github.com/user-attachments/assets/57b454ed-ddc0-44d2-9801-c76066aa46db)
 
