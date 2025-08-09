@@ -6,8 +6,8 @@ Criei ele para treinar o que venho aprendendo em desenvolvimento Android e pra m
 - [Por que Jetpack Compose](#porque-jetpack-compose)
 - [Como funciona](#como-o-jogo-funciona?)
 - [Tomadas de Decisão](#tomadas-de-decisão)
-- [Observações](#observações)
-- [Créditos](#creditos)
+- [Observações](#Observações)
+- [Créditos](#Créditos)
 
 ## Tecnologias utilizadas
 - [Kotlin](https://kotlinlang.org/) — A melhor linguagem de todas.
@@ -47,7 +47,7 @@ Não pretendo fazer atualizações frequentes nem abrir para colaboração.
 O código pode não ser perfeito, mas foi feito com foco em aprender.
 > A imagem de background `rpg_background` foi gerada por IA, mas isso a gente não comenta :D
 
-## **Créditos**  
+## Créditos
 Para mim mesmo, Gabriel Rodrigues entusiasta em Desenvolvimento Mobile (Android).
 - [LinkedIn](https://www.linkedin.com/in/gahrodrigues/)
 - [GitHub](https://github.com/GBLZIN)  
